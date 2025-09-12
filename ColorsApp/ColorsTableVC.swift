@@ -3,7 +3,6 @@
 //  ColorsApp
 //
 //  Created by Ramon Sávio Fontes Rocha on 12/09/25.
-//
 
 import UIKit
 
